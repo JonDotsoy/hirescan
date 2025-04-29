@@ -1,5 +1,7 @@
 # HireScan Prompt
 
+[![HireScan GPT](https://img.shields.io/badge/HireScan_GPT-gray?logo=OpenAI&logoColor=white&style=for-the-badge)](https://chatgpt.com/g/g-6810df0185408191aaba78a47152f5e0-hirescan)
+
 ![HireScan Brand](docs/assets/brand-hirescan.svg)
 
 Este prompt ha sido diseñado para proporcionar una evaluación experta, estructurada y personalizada de currículums vitae. Facilita la identificación de fortalezas, áreas de mejora y el nivel de adecuación frente a ofertas laborales específicas. Su enfoque integral permite optimizar el CV para diversos contextos de postulación, maximizando así las oportunidades del candidato.
