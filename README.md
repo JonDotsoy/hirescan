@@ -37,6 +37,10 @@ Este proceso asegura que el agente pueda interpretar y aplicar correctamente el 
 
 Este proyecto está abierto a desarrolladores interesados en mejorar la experiencia de los usuarios. ¡Tu participación es valiosa y apreciada!
 
+## Código de Conducta
+
+Este proyecto promueve un ambiente inclusivo, seguro y libre de acoso para todos los participantes, sin distinción de género, raza, orientación sexual, capacidades, apariencia física o creencias. No se tolera ningún tipo de acoso, y cualquier conducta inapropiada será sancionada. Si eres víctima o testigo de acoso, contacta a la organización de inmediato. Consulta el archivo [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) para más detalles.
+
 ## Licencia
 
 Este proyecto está licenciado bajo los términos especificados en el archivo [LICENSE](./LICENSE). Por favor, revisa el archivo para más detalles.
