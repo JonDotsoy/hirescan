@@ -2,7 +2,9 @@
 
 ![HireScan Brand](docs/assets/brand-hirescan.svg)
 
-Este prompt está diseñado para ofrecer una evaluación experta, estructurada y personalizada de currículums vitae, facilitando la identificación de fortalezas, áreas de mejora y el grado de adecuación frente a ofertas laborales específicas. Su enfoque integral permite optimizar el CV para distintos contextos de postulación y maximizar las oportunidades del candidato.
+Este prompt ha sido diseñado para proporcionar una evaluación experta, estructurada y personalizada de currículums vitae. Facilita la identificación de fortalezas, áreas de mejora y el nivel de adecuación frente a ofertas laborales específicas. Su enfoque integral permite optimizar el CV para diversos contextos de postulación, maximizando así las oportunidades del candidato.
+
+Actualmente, existen implementaciones funcionales de este prompt en ChatGPT, como **[HireScan GPT](https://chatgpt.com/g/g-6810df0185408191aaba78a47152f5e0-hirescan)**. Estas herramientas permiten a los usuarios aprovechar las capacidades del prompt de forma inmediata, sin configuraciones adicionales. Solo necesitas subir tu CV y las ofertas laborales en formato PDF o como capturas, y en pocos minutos obtendrás resultados personalizados y prácticos.
 
 ## Beneficios de Utilizar Este Prompt
 
